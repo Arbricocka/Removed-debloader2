@@ -12,7 +12,7 @@ echo "Press (y) for exit"
 echo "$div"
 echo -n "[CHOICE]: "
 read m
-[ "$m" == "y" ] && echo "bye bye" && exit
+[ "$m" == "y" ] && echo "bye byee" && exit
 echo -ne 'Loading.             (16%)\r'
 sleep 0.2
 echo -ne 'Loading..            (21%)\r'
